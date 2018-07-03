@@ -1,5 +1,6 @@
-# Prosty server WWW.
+# A simple WWW Server (University Project)
+
+It is a simple implementation of basic `WWW Server`. More about the task can be found here: [task_description.pdf](./task_description.pdf).
 
 
-Szczegółowe informacje na temat implementacji oraz uruchamiania można znaleźć w [task_description.pdf](./task_description.pdf)
 
